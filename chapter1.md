@@ -1,4 +1,4 @@
-# Chapter 1 - algorithm complexity
+# Chapter 1 - algorithms complexity
 
 Two most often considered measurement of algorithms – **time complexity** and **space complexity**.
 
