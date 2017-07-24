@@ -19,5 +19,7 @@ Chapter 6 — In progress...
 ### Competition sites:
 
 [HackerRank](https://www.hackerrank.com/dashboard) — the most popular site
+
 [HackerEarth](https://www.hackerearth.com/challenges/) — good explanations
+
 [CodeWars](https://www.hackerearth.com/challenges/) — I just like it :)
