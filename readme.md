@@ -15,6 +15,10 @@
 Chapter 6 — In progress...
 
 ## Useful links:
+### Wikipedia:
+[List of algorithm general topics](https://en.wikipedia.org/wiki/List_of_algorithm_general_topics)
+
+[List of algorithms](https://en.wikipedia.org/wiki/List_of_algorithms) — it's really huge. It's just as an example. You shouldn't know them all.
 
 ### Competition sites:
 
