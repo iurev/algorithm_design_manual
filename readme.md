@@ -10,7 +10,7 @@
 
 [Chapter 4 — Graphs](chapter4.md)
 
-Chapter 5 — In progress...
+[Chapter 5 — Combinatorial search and heuristics methods](chapter5.md)
 
 Chapter 6 — In progress...
 
