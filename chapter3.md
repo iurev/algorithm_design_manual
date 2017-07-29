@@ -46,9 +46,7 @@ Some algorithms use random numbers to solve problems. Correctness of using it is
 For example, _quick sort_, _fast exponentiation_.
 
 ## To be continued in the next chapters
-- Greedy algorithm
 - Back Tracking
-- Brute Force
 
 ## Useful links:
 

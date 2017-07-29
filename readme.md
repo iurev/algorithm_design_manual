@@ -6,7 +6,7 @@
 
 [Chapter 2 — Common data types](chapter2.md)
 
-[Chapter 3 — Useful approaches](chapter3.md)
+[Chapter 3 — Common design paradigms](chapter3.md)
 
 [Chapter 4 — Graphs](chapter4.md)
 
