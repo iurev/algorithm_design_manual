@@ -64,3 +64,10 @@ For example, _quick sort_, _fast exponentiation_.
 
 [wikipedia – Memoization](https://en.wikipedia.org/wiki/Memoization)
 
+## Exercises
+### Quick sort
+[part 1](https://www.hackerrank.com/challenges/quicksort1)
+
+[part 2](https://www.hackerrank.com/challenges/quicksort2)
+
+[part 3](https://www.hackerrank.com/challenges/quicksort3)
